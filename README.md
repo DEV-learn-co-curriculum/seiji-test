@@ -226,3 +226,5 @@ A common issue is not being able to authenticate with GitHub. You need to use HT
 * [Setting Up Git](https://help.github.com/articles/set-up-git)
 * [HTTPS Cloning Errors](https://help.github.com/articles/https-cloning-errors)
 * [Setting Up SSH](https://help.github.com/articles/generating-ssh-keys)
+
+<a href='https://learn.co/lessons/seiji-test' data-visibility='hidden'>Learn.co resource</a>
